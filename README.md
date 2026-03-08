@@ -3,7 +3,7 @@
 # Discourses on the Birthrate Crisis in French and Russian Media  
 ### Between Demographic Anxiety and Moral Panic  
 
-This repository hosts the Master’s thesis *“Discourses on the Birthrate Crisis in French and Russian Media: Between Demographic Anxiety and Moral Panic”*.  
+This repository hosts the first year Master’s thesis *“Discourses on the Birthrate Crisis in French and Russian Media: Between Demographic Anxiety and Moral Panic”*.  
 The research explores how demographic issues and declining birthrates are represented in French and Russian national press between 2020 and 2025.  
 
 ---
